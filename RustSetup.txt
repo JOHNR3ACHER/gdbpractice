@@ -1,4 +1,6 @@
-#Repository Setup 
+#Repository Setup
+mkdir -p /home/codespace/.config/fish/conf.d/
+
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
